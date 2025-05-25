@@ -30,6 +30,10 @@
 - Leonardo AI – https://leonardo.ai/
 - Invoke AI – https://invoke.ai/
 - Stable Diffusion – https://stability.ai/
+- Poe – https://poe.com/
+- Reka – https://reka.ai/
+- You.com – https://you.com/
+- QuillBot – https://quillbot.com/
 
 ## Research & Model Hubs
 - ArXiv – https://arxiv.org/
@@ -40,6 +44,7 @@
 - Consensus – https://consensus.app/
 - Zotero – https://www.zotero.org/
 - Research Rabbit – https://www.researchrabbit.ai/
+- OpenReview – https://openreview.net/
 
 ## Development & Collaboration
 - GitHub – https://github.com/
@@ -50,6 +55,8 @@
 - Google Colab – https://colab.research.google.com/
 - Kaggle – https://www.kaggle.com/
 - Replit – https://replit.com/
+- CodeSandbox – https://codesandbox.io/
+- Dev.to – https://dev.to/
 
 ## Cloud & DevOps
 - AWS – https://aws.amazon.com/
@@ -64,6 +71,8 @@
 - Terraform – https://www.terraform.io/
 - Cloudflare – https://www.cloudflare.com/
 - Tailscale – https://tailscale.com/
+- Heroku – https://www.heroku.com/
+- CircleCI – https://circleci.com/
 
 ## Productivity & Scheduling
 - Notion – https://www.notion.so/
@@ -79,6 +88,8 @@
 - Reflect Notes – https://reflect.app/
 - Tana – https://tana.inc/
 - Readwise – https://readwise.io/
+- Evernote – https://evernote.com/
+- Airtable – https://airtable.com/
 
 ## Design & Visual Tools
 - Descript – https://www.descript.com/
@@ -86,6 +97,7 @@
 - Figma – https://www.figma.com/
 - FigJam – https://www.figma.com/figjam/
 - Whimsical – https://whimsical.com/
+- Canva – https://www.canva.com/
 
 ## Cybersecurity & Pentesting
 - NIST – https://www.nist.gov/
@@ -107,6 +119,7 @@
 - Offensive Security – https://www.offensive-security.com/
 - TryHackMe – https://tryhackme.com/
 - Hack The Box – https://www.hackthebox.com/
+- HackerOne – https://www.hackerone.com/
 
 ## Education & Training
 - Coursera – https://www.coursera.org/
@@ -115,7 +128,12 @@
 - Pluralsight – https://www.pluralsight.com/
 - Cybrary – https://www.cybrary.it/
 - DataCamp – https://www.datacamp.com/
+- Khan Academy – https://www.khanacademy.org/
 
 ## Other Interesting Tools
 - Lovable – https://lovable.ai/
 - AI Snake Game – https://playsnake.ai/
+- Excalidraw – https://excalidraw.com/
+
+## Changelog
+<small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
