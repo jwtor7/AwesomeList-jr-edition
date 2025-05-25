@@ -1,6 +1,6 @@
-# Junior's Awesome List of Top Websites
+# Junior's Awesome List of Top Websites (117 websites)
 
-## AI & LLM Platforms
+## AI & LLM Platforms (33 websites)
 - ChatGPT – https://chat.openai.com/
 - OpenAI – https://openai.com/
 - OpenAI API – https://platform.openai.com/
@@ -30,8 +30,12 @@
 - Leonardo AI – https://leonardo.ai/
 - Invoke AI – https://invoke.ai/
 - Stable Diffusion – https://stability.ai/
+- Poe – https://poe.com/
+- Reka – https://reka.ai/
+- You.com – https://you.com/
+- QuillBot – https://quillbot.com/
 
-## Research & Model Hubs
+## Research & Model Hubs (9 websites)
 - ArXiv – https://arxiv.org/
 - Zenodo – https://zenodo.org/
 - IEEE Xplore – https://ieeexplore.ieee.org/
@@ -40,8 +44,9 @@
 - Consensus – https://consensus.app/
 - Zotero – https://www.zotero.org/
 - Research Rabbit – https://www.researchrabbit.ai/
+- OpenReview – https://openreview.net/
 
-## Development & Collaboration
+## Development & Collaboration (10 websites)
 - GitHub – https://github.com/
 - GitLab – https://gitlab.com/
 - Stack Overflow – https://stackoverflow.com/
@@ -50,8 +55,10 @@
 - Google Colab – https://colab.research.google.com/
 - Kaggle – https://www.kaggle.com/
 - Replit – https://replit.com/
+- CodeSandbox – https://codesandbox.io/
+- Dev.to – https://dev.to/
 
-## Cloud & DevOps
+## Cloud & DevOps (14 websites)
 - AWS – https://aws.amazon.com/
 - Microsoft Azure – https://azure.microsoft.com/
 - Google Cloud – https://cloud.google.com/
@@ -64,8 +71,10 @@
 - Terraform – https://www.terraform.io/
 - Cloudflare – https://www.cloudflare.com/
 - Tailscale – https://tailscale.com/
+- Heroku – https://www.heroku.com/
+- CircleCI – https://circleci.com/
 
-## Productivity & Scheduling
+## Productivity & Scheduling (15 websites)
 - Notion – https://www.notion.so/
 - Trello – https://trello.com/
 - Asana – https://asana.com/
@@ -79,15 +88,18 @@
 - Reflect Notes – https://reflect.app/
 - Tana – https://tana.inc/
 - Readwise – https://readwise.io/
+- Evernote – https://evernote.com/
+- Airtable – https://airtable.com/
 
-## Design & Visual Tools
+## Design & Visual Tools (6 websites)
 - Descript – https://www.descript.com/
 - HeyGen – https://www.heygen.com/
 - Figma – https://www.figma.com/
 - FigJam – https://www.figma.com/figjam/
 - Whimsical – https://whimsical.com/
+- Canva – https://www.canva.com/
 
-## Cybersecurity & Pentesting
+## Cybersecurity & Pentesting (20 websites)
 - NIST – https://www.nist.gov/
 - ISO – https://www.iso.org/
 - SANS Institute – https://www.sans.org/
@@ -107,15 +119,18 @@
 - Offensive Security – https://www.offensive-security.com/
 - TryHackMe – https://tryhackme.com/
 - Hack The Box – https://www.hackthebox.com/
+- HackerOne – https://www.hackerone.com/
 
-## Education & Training
+## Education & Training (7 websites)
 - Coursera – https://www.coursera.org/
 - edX – https://www.edx.org/
 - Udemy – https://www.udemy.com/
 - Pluralsight – https://www.pluralsight.com/
 - Cybrary – https://www.cybrary.it/
 - DataCamp – https://www.datacamp.com/
+- Khan Academy – https://www.khanacademy.org/
 
-## Other Interesting Tools
+## Other Interesting Tools (3 websites)
 - Lovable – https://lovable.ai/
 - AI Snake Game – https://playsnake.ai/
+- Excalidraw – https://excalidraw.com/
