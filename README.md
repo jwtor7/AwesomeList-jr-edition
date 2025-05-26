@@ -1,6 +1,6 @@
-# Junior's Awesome List of Top Websites (117 websites)
+# Junior's Awesome List of Top Websites (100 websites)
 
-## AI & LLM Platforms (33 websites)
+## AI & LLM Platforms (27 websites)
 - ChatGPT – https://chat.openai.com/
 - OpenAI – https://openai.com/
 - OpenAI API – https://platform.openai.com/
@@ -10,7 +10,6 @@
 - Claude – https://claude.ai/
 - Google – https://www.google.com/
 - Gemini – https://gemini.google.com/
-- Google AI Studio – https://aistudio.google.com/
 - NotebookLM – https://notebooklm.google.com/
 - LM Studio – https://lm.studio
 - Mistral – https://mistral.ai/
@@ -20,7 +19,6 @@
 - Microsoft Copilot – https://copilot.microsoft.com/
 - Grok – https://grok.x.com/
 - Hugging Face – https://huggingface.co/
-- Midjourney – https://www.midjourney.com/
 - AI Dungeon – https://play.aidungeon.io/
 - Character.AI – https://beta.character.ai/
 - ElevenLabs – https://www.elevenlabs.io/
@@ -30,12 +28,8 @@
 - Leonardo AI – https://leonardo.ai/
 - Invoke AI – https://invoke.ai/
 - Stable Diffusion – https://stability.ai/
-- Poe – https://poe.com/
-- Reka – https://reka.ai/
-- You.com – https://you.com/
-- QuillBot – https://quillbot.com/
 
-## Research & Model Hubs (9 websites)
+## Research & Model Hubs (8 websites)
 - ArXiv – https://arxiv.org/
 - Zenodo – https://zenodo.org/
 - IEEE Xplore – https://ieeexplore.ieee.org/
@@ -44,9 +38,8 @@
 - Consensus – https://consensus.app/
 - Zotero – https://www.zotero.org/
 - Research Rabbit – https://www.researchrabbit.ai/
-- OpenReview – https://openreview.net/
 
-## Development & Collaboration (10 websites)
+## Development & Collaboration (8 websites)
 - GitHub – https://github.com/
 - GitLab – https://gitlab.com/
 - Stack Overflow – https://stackoverflow.com/
@@ -55,10 +48,8 @@
 - Google Colab – https://colab.research.google.com/
 - Kaggle – https://www.kaggle.com/
 - Replit – https://replit.com/
-- CodeSandbox – https://codesandbox.io/
-- Dev.to – https://dev.to/
 
-## Cloud & DevOps (14 websites)
+## Cloud & DevOps (12 websites)
 - AWS – https://aws.amazon.com/
 - Microsoft Azure – https://azure.microsoft.com/
 - Google Cloud – https://cloud.google.com/
@@ -71,10 +62,8 @@
 - Terraform – https://www.terraform.io/
 - Cloudflare – https://www.cloudflare.com/
 - Tailscale – https://tailscale.com/
-- Heroku – https://www.heroku.com/
-- CircleCI – https://circleci.com/
 
-## Productivity & Scheduling (15 websites)
+## Productivity & Scheduling (13 websites)
 - Notion – https://www.notion.so/
 - Trello – https://trello.com/
 - Asana – https://asana.com/
@@ -88,18 +77,15 @@
 - Reflect Notes – https://reflect.app/
 - Tana – https://tana.inc/
 - Readwise – https://readwise.io/
-- Evernote – https://evernote.com/
-- Airtable – https://airtable.com/
 
-## Design & Visual Tools (6 websites)
+## Design & Visual Tools (5 websites)
 - Descript – https://www.descript.com/
 - HeyGen – https://www.heygen.com/
 - Figma – https://www.figma.com/
 - FigJam – https://www.figma.com/figjam/
 - Whimsical – https://whimsical.com/
-- Canva – https://www.canva.com/
 
-## Cybersecurity & Pentesting (20 websites)
+## Cybersecurity & Pentesting (19 websites)
 - NIST – https://www.nist.gov/
 - ISO – https://www.iso.org/
 - SANS Institute – https://www.sans.org/
@@ -119,21 +105,19 @@
 - Offensive Security – https://www.offensive-security.com/
 - TryHackMe – https://tryhackme.com/
 - Hack The Box – https://www.hackthebox.com/
-- HackerOne – https://www.hackerone.com/
 
-## Education & Training (7 websites)
+## Education & Training (6 websites)
 - Coursera – https://www.coursera.org/
 - edX – https://www.edx.org/
 - Udemy – https://www.udemy.com/
 - Pluralsight – https://www.pluralsight.com/
 - Cybrary – https://www.cybrary.it/
 - DataCamp – https://www.datacamp.com/
-- Khan Academy – https://www.khanacademy.org/
 
-## Other Interesting Tools (3 websites)
+## Other Interesting Tools (2 websites)
 - Lovable – https://lovable.ai/
 - AI Snake Game – https://playsnake.ai/
-- Excalidraw – https://excalidraw.com/
 
 ## Changelog
-<small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
+- <small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
+- <small>2025-05-26: Removed 17 sites to revert to original 100.</small>
