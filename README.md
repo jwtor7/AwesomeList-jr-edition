@@ -1,6 +1,6 @@
-# Junior's Awesome List of Top Websites (117 websites)
+# Junior's Awesome List of Top Websites (111 websites)
 
-## AI & LLM Platforms (33 websites)
+## AI & LLM Platforms (30 websites)
 - ChatGPT – https://chat.openai.com/
 - OpenAI – https://openai.com/
 - OpenAI API – https://platform.openai.com/
@@ -12,11 +12,9 @@
 - Gemini – https://gemini.google.com/
 - Google AI Studio – https://aistudio.google.com/
 - NotebookLM – https://notebooklm.google.com/
-- LM Studio – https://lm.studio
 - Mistral – https://mistral.ai/
 - Napkin.ai – https://napkin.ai/
 - Manus – https://manus.ai/
-- ArenaLM – https://arenalm.ai/
 - Microsoft Copilot – https://copilot.microsoft.com/
 - Grok – https://grok.x.com/
 - Hugging Face – https://huggingface.co/
@@ -31,7 +29,6 @@
 - Invoke AI – https://invoke.ai/
 - Stable Diffusion – https://stability.ai/
 - Poe – https://poe.com/
-- Reka – https://reka.ai/
 - You.com – https://you.com/
 - QuillBot – https://quillbot.com/
 
@@ -74,7 +71,7 @@
 - Heroku – https://www.heroku.com/
 - CircleCI – https://circleci.com/
 
-## Productivity & Scheduling (15 websites)
+## Productivity & Scheduling (13 websites)
 - Notion – https://www.notion.so/
 - Trello – https://trello.com/
 - Asana – https://asana.com/
@@ -85,8 +82,6 @@
 - Calendly – https://calendly.com/
 - Google Calendar – https://calendar.google.com/
 - Todoist – https://todoist.com/
-- Reflect Notes – https://reflect.app/
-- Tana – https://tana.inc/
 - Readwise – https://readwise.io/
 - Evernote – https://evernote.com/
 - Airtable – https://airtable.com/
@@ -130,10 +125,10 @@
 - DataCamp – https://www.datacamp.com/
 - Khan Academy – https://www.khanacademy.org/
 
-## Other Interesting Tools (3 websites)
-- Lovable – https://lovable.ai/
+## Other Interesting Tools (2 websites)
 - AI Snake Game – https://playsnake.ai/
 - Excalidraw – https://excalidraw.com/
 
 ## Changelog
-<small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
+- <small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
+- <small>2025-05-26: Removed 6 unverified or invalid sites.</small>
