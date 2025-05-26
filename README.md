@@ -136,4 +136,5 @@
 - Excalidraw – https://excalidraw.com/
 
 ## Changelog
-<small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
+- <small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
+- <small>2025-05-26: Reformatted changelog bullet to comply with repository guidelines.</small>
