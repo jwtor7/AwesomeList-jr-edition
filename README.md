@@ -1,18 +1,18 @@
-# Junior's Awesome List of Top Websites (115 websites)
+# Junior's Awesome List of Top Websites (110 websites)
 
 ## Table of Contents
-- [AI & LLM Platforms](#ai--llm-platforms)
-- [Research & Model Hubs](#research--model-hubs)
-- [Development & Collaboration](#development--collaboration)
-- [Cloud & DevOps](#cloud--devops)
-- [Productivity & Scheduling](#productivity--scheduling)
-- [Design & Visual Tools](#design--visual-tools)
-- [Cybersecurity & Pentesting](#cybersecurity--pentesting)
-- [Education & Training](#education--training)
-- [Other Interesting Tools](#other-interesting-tools)
+- [AI & LLM Platforms](#ai-llm-platforms-29-websites)
+- [Research & Model Hubs](#research-model-hubs-9-websites)
+- [Development & Collaboration](#development-collaboration-10-websites)
+- [Cloud & DevOps](#cloud-devops-14-websites)
+- [Productivity & Scheduling](#productivity-scheduling-15-websites)
+- [Design & Visual Tools](#design-visual-tools-6-websites)
+- [Cybersecurity & Pentesting](#cybersecurity-pentesting-18-websites)
+- [Education & Training](#education-training-7-websites)
+- [Other Interesting Tools](#other-interesting-tools-2-websites)
 - [Changelog](#changelog)
 
-## AI & LLM Platforms (32 websites)
+## AI & LLM Platforms (29 websites)
 - AI Dungeon – https://play.aidungeon.io/  
   <small>Interactive storytelling with AI.</small>
 - Anthropic – https://www.anthropic.com/  
@@ -190,7 +190,7 @@
 - Whimsical – https://whimsical.com/  
   <small>Flowcharts and wireframes.</small>
 
-## Cybersecurity & Pentesting (20 websites)
+## Cybersecurity & Pentesting (18 websites)
 - CVE (MITRE) – https://cve.mitre.org/  
   <small>Common vulnerabilities catalog.</small>
 - CVE.org – https://cve.org/  
@@ -254,4 +254,5 @@
 
 - <small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
 - <small>2025-05-26: Reformatted changelog bullet to comply with repository guidelines.</small>
+- <small>2025-05-28: Fixed table of contents links and updated website counts.</small>
 
