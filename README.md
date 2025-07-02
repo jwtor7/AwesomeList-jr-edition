@@ -1,18 +1,18 @@
-# Junior's Awesome List of Top Websites (110 websites)
+# Junior's Awesome List of Top Websites (115 websites)
 
 ## Table of Contents
-- [AI & LLM Platforms](#ai-llm-platforms-29-websites)
-- [Research & Model Hubs](#research-model-hubs-9-websites)
-- [Development & Collaboration](#development-collaboration-10-websites)
-- [Cloud & DevOps](#cloud-devops-14-websites)
+- [AI & LLM Platforms](#ai-llm-platforms-30-websites)
+- [Research & Model Hubs](#research-model-hubs-10-websites)
+- [Development & Collaboration](#development-collaboration-11-websites)
+- [Cloud & DevOps](#cloud-devops-15-websites)
 - [Productivity & Scheduling](#productivity-scheduling-15-websites)
 - [Design & Visual Tools](#design-visual-tools-6-websites)
 - [Cybersecurity & Pentesting](#cybersecurity-pentesting-18-websites)
-- [Education & Training](#education-training-7-websites)
+- [Education & Training](#education-training-8-websites)
 - [Other Interesting Tools](#other-interesting-tools-2-websites)
 - [Changelog](#changelog)
 
-## AI & LLM Platforms (29 websites)
+## AI & LLM Platforms (30 websites)
 - AI Dungeon – https://play.aidungeon.io/  
   <small>Interactive storytelling with AI.</small>
 - Anthropic – https://www.anthropic.com/  
@@ -21,9 +21,11 @@
   <small>OpenAI's conversational AI assistant.</small>
 - Character.AI – https://beta.character.ai/  
   <small>Create and chat with custom characters.</small>
-- Claude – https://claude.ai/  
+- Claude – https://claude.ai/
   <small>An AI assistant from Anthropic.</small>
-- Gemini – https://gemini.google.com/  
+- Cohere – https://cohere.com/
+  <small>Accessible LLM APIs for developers.</small>
+- Gemini – https://gemini.google.com/
   <small>Google's family of generative AI models.</small>
 - Google – https://www.google.com/  
   <small>Search the web for anything.</small>
@@ -72,7 +74,7 @@
 - You.com – https://you.com/  
   <small>Search engine with AI chat.</small>
 
-## Research & Model Hubs (9 websites)
+## Research & Model Hubs (10 websites)
 - ArXiv – https://arxiv.org/  
   <small>Open repository of scientific papers.</small>
 - Consensus – https://consensus.app/  
@@ -85,23 +87,27 @@
   <small>Papers paired with implementation code.</small>
 - Research Rabbit – https://www.researchrabbit.ai/  
   <small>Tool for discovering related papers.</small>
-- SciSpace – https://typeset.io/  
+- SciSpace – https://typeset.io/
   <small>Research reading and collaboration tools.</small>
-- Zenodo – https://zenodo.org/  
+- Semantic Scholar – https://www.semanticscholar.org/
+  <small>AI-powered scientific search engine.</small>
+- Zenodo – https://zenodo.org/
   <small>Research data and software archive.</small>
 - Zotero – https://www.zotero.org/  
   <small>Reference manager for academics.</small>
 
-## Development & Collaboration (10 websites)
+## Development & Collaboration (11 websites)
 - CodeSandbox – https://codesandbox.io/  
   <small>Online editor for web applications.</small>
 - Dev.to – https://dev.to/  
   <small>Community for software developers.</small>
 - GitHub – https://github.com/  
   <small>Host and collaborate on code.</small>
-- GitLab – https://gitlab.com/  
+- GitLab – https://gitlab.com/
   <small>Complete DevOps platform.</small>
-- Google Colab – https://colab.research.google.com/  
+- Gitpod – https://www.gitpod.io/
+  <small>Cloud dev environments that auto prep workspaces.</small>
+- Google Colab – https://colab.research.google.com/
   <small>Jupyter notebooks in the cloud.</small>
 - Hacker News – https://news.ycombinator.com/  
   <small>Tech and startup news.</small>
@@ -111,11 +117,13 @@
   <small>Blogging platform for ideas.</small>
 - Replit – https://replit.com/  
   <small>Collaborative coding environment.</small>
-- Stack Overflow – https://stackoverflow.com/  
+- Stack Overflow – https://stackoverflow.com/
   <small>Q&A site for programming.</small>
 
-## Cloud & DevOps (14 websites)
-- AWS – https://aws.amazon.com/  
+## Cloud & DevOps (15 websites)
+- Ansible – https://www.ansible.com/
+  <small>Automation and configuration management.</small>
+- AWS – https://aws.amazon.com/
   <small>Amazon's cloud computing platform.</small>
 - CircleCI – https://circleci.com/  
   <small>Continuous integration and delivery.</small>
@@ -228,21 +236,23 @@
 - Wireshark – https://www.wireshark.org/  
   <small>Network protocol analyzer.</small>
 
-## Education & Training (7 websites)
-- Coursera – https://www.coursera.org/  
+## Education & Training (8 websites)
+- Brilliant – https://brilliant.org/
+  <small>Interactive math and science lessons.</small>
+- Coursera – https://www.coursera.org/
   <small>Online courses from universities.</small>
-- Cybrary – https://www.cybrary.it/  
+- Cybrary – https://www.cybrary.it/
   <small>Cybersecurity training platform.</small>
-- DataCamp – https://www.datacamp.com/  
+- DataCamp – https://www.datacamp.com/
   <small>Data science courses.</small>
-- Khan Academy – https://www.khanacademy.org/  
-  <small>Free educational lessons.</small>
-- Pluralsight – https://www.pluralsight.com/  
-  <small>Tech skill development.</small>
-- Udemy – https://www.udemy.com/  
-  <small>Marketplace for online courses.</small>
-- edX – https://www.edx.org/  
+- edX – https://www.edx.org/
   <small>University-level courses online.</small>
+- Khan Academy – https://www.khanacademy.org/
+  <small>Free educational lessons.</small>
+- Pluralsight – https://www.pluralsight.com/
+  <small>Tech skill development.</small>
+- Udemy – https://www.udemy.com/
+  <small>Marketplace for online courses.</small>
 
 ## Other Interesting Tools (2 websites)
 - AI Snake Game – https://playsnake.ai/  
@@ -255,4 +265,5 @@
 - <small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
 - <small>2025-05-26: Reformatted changelog bullet to comply with repository guidelines.</small>
 - <small>2025-05-28: Fixed table of contents links and updated website counts.</small>
+- <small>2025-07-02: Added 5 new sites across multiple categories.</small>
 
