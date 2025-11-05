@@ -17,10 +17,10 @@
   <small>Interactive storytelling with AI.</small>
 - Anthropic – https://www.anthropic.com/  
   <small>Research company building reliable AI models.</small>
-- ChatGPT – https://chat.openai.com/  
-  <small>OpenAI's conversational AI assistant.</small>
 - Character.AI – https://beta.character.ai/  
   <small>Create and chat with custom characters.</small>
+- ChatGPT – https://chat.openai.com/  
+  <small>OpenAI's conversational AI assistant.</small>
 - Claude – https://claude.ai/
   <small>An AI assistant from Anthropic.</small>
 - Cohere – https://cohere.com/
@@ -189,22 +189,22 @@
   <small>Design anything quickly.</small>
 - Descript – https://www.descript.com/  
   <small>Edit audio and video by editing text.</small>
-- Figma – https://www.figma.com/  
-  <small>Collaborative interface design.</small>
 - FigJam – https://www.figma.com/figjam/  
   <small>Online whiteboard for teams.</small>
+- Figma – https://www.figma.com/  
+  <small>Collaborative interface design.</small>
 - HeyGen – https://www.heygen.com/  
   <small>AI video generation.</small>
 - Whimsical – https://whimsical.com/  
   <small>Flowcharts and wireframes.</small>
 
 ## Cybersecurity & Pentesting (18 websites)
+- Censys – https://censys.io/  
+  <small>Internet-wide scanning data.</small>
 - CVE (MITRE) – https://cve.mitre.org/  
   <small>Common vulnerabilities catalog.</small>
 - CVE.org – https://cve.org/  
   <small>Community site for CVE records.</small>
-- Censys – https://censys.io/  
-  <small>Internet-wide scanning data.</small>
 - Exploit DB – https://www.exploit-db.com/  
   <small>Archive of public exploits.</small>
 - Hack The Box – https://www.hackthebox.com/  
@@ -213,10 +213,10 @@
   <small>Bug bounty and vulnerability disclosure.</small>
 - Kali Linux – https://www.kali.org/  
   <small>Penetration testing distribution.</small>
-- MITRE – https://www.mitre.org/  
-  <small>Security research organization.</small>
 - Metasploit – https://www.metasploit.com/  
   <small>Penetration testing framework.</small>
+- MITRE – https://www.mitre.org/  
+  <small>Security research organization.</small>
 - NIST – https://www.nist.gov/  
   <small>U.S. standards and cybersecurity.</small>
 - Nmap – https://nmap.org/  
@@ -262,8 +262,9 @@
 
 ## Changelog
 
-- <small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
-- <small>2025-05-26: Reformatted changelog bullet to comply with repository guidelines.</small>
-- <small>2025-05-28: Fixed table of contents links and updated website counts.</small>
-- <small>2025-07-02: Added 5 new sites across multiple categories.</small>
+- <small>2025-11-05: Verified all 115 links are valid and working. Alphabetically sorted all entries within categories for easier navigation.</small>
 - <small>2025-08-21: Reverted integration of AI tools and services list.</small>
+- <small>2025-07-02: Added 5 new sites across multiple categories.</small>
+- <small>2025-05-28: Fixed table of contents links and updated website counts.</small>
+- <small>2025-05-26: Reformatted changelog bullet to comply with repository guidelines.</small>
+- <small>2025-05-25: Added 15 new sites across multiple categories (0 removed).</small>
