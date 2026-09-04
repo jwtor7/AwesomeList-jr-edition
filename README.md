@@ -1,13 +1,31 @@
-# 🚀 Junior's Awesome List of Top Websites (77 curated sites)
+<div align="center">
 
-> *A carefully curated collection of the most authoritative and useful websites for developers, researchers, and tech enthusiasts.*
+# 🚀 Junior's Awesome List of Top Websites
 
-## 🎯 Quick Stats
+### **83 vetted, authoritative sites** for developers, researchers, and security professionals
 
-- **Total Sites**: 77
-- **Categories**: 7
-- **Free Resources**: 68
-- **Open Source**: 16
+[![Sites](https://img.shields.io/badge/Sites-83-blue?style=for-the-badge)](#-table-of-contents)
+[![Categories](https://img.shields.io/badge/Categories-7-purple?style=for-the-badge)](#-table-of-contents)
+[![Last Verified](https://img.shields.io/badge/Verified-Sep%202026-green?style=for-the-badge)](#changelog)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)](LICENSE)
+
+*Every link verified for uptime, official domain ownership, and legitimacy — no affiliate farms, typosquats, or mystery sites.*
+
+</div>
+
+---
+
+## 🎯 At a Glance
+
+| Metric | Count |
+|--------|------:|
+| **Total Sites** | 83 |
+| **Categories** | 7 |
+| **Free or Free Tier** | 73 |
+| **Open Source** | 17 |
+| **Government / Standards Bodies** | 3 |
+
+---
 
 ## 📖 Badge Legend
 
@@ -21,597 +39,669 @@
 | 🔍 Search | Search functionality | 🔒 Security | Security-focused |
 | 🎨 Creative | Creative tools | 🏆 Competitions | Includes competitions |
 | 🤖 AI-Powered | Uses AI technology | 💰 Bug Bounties | Bug bounty platform |
+| 🏛️ Government | Official government resource | 📚 Academic | Academic / scholarly |
+
+---
 
 ## 📚 Table of Contents
 
-- [AI & LLM Platforms](#ai-llm-platforms) (15 sites)
-- [Research & Academia](#research-academia) (8 sites)
-- [Development & Collaboration](#development-collaboration) (10 sites)
-- [Cloud & DevOps](#cloud-devops) (12 sites)
-- [Productivity & Collaboration](#productivity-collaboration) (10 sites)
-- [Cybersecurity](#cybersecurity) (12 sites)
-- [Education & Learning](#education-learning) (10 sites)
-- [Changelog](#changelog)
+- [AI & LLM Platforms](#-ai--llm-platforms) (16 sites)
+- [Research & Academia](#-research--academia) (8 sites)
+- [Development & Collaboration](#-development--collaboration) (11 sites)
+- [Cloud & DevOps](#-cloud--devops) (12 sites)
+- [Productivity & Collaboration](#-productivity--collaboration) (11 sites)
+- [Cybersecurity](#-cybersecurity) (14 sites)
+- [Education & Learning](#-education--learning) (11 sites)
 - [Contributing](#contributing)
+- [Changelog](#changelog)
 
-## AI & LLM Platforms
+---
+
+## 🤖 AI & LLM Platforms
 
 ### [Anthropic](https://www.anthropic.com/)
 🔬 Research | 💼 Enterprise
 
-Research company building reliable AI models.
+Research company building reliable, safety-focused AI models.
 
-**Best for:** Claude AI and safety-focused AI research
+**Best for:** Claude AI and responsible AI research
 
-### [ChatGPT](https://chat.openai.com/)
+### [ChatGPT](https://chatgpt.com/)
 🆓 Free Tier | 💎 Premium
 
-OpenAI's conversational AI assistant.
+OpenAI's official conversational AI assistant.
 
 **Best for:** General-purpose AI assistance
 
 ### [Claude](https://claude.ai/)
 🆓 Free Tier | 💎 Premium
 
-An AI assistant from Anthropic.
+Anthropic's AI assistant for analysis and long-context work.
 
-**Best for:** Long-context conversations and analysis
+**Best for:** Long-context conversations and document analysis
+
+### [DeepSeek](https://www.deepseek.com/)
+🆓 Free Tier | 🌟 Open Source
+
+Chinese AI lab offering high-performance open-weight models.
+
+**Best for:** Cost-effective coding and reasoning models
 
 ### [Gemini](https://gemini.google.com/)
 🆓 Free Tier | 💼 Enterprise
 
-Google's family of generative AI models.
+Google's multimodal generative AI platform.
 
-**Best for:** Multimodal AI with Google integration
+**Best for:** Multimodal AI with Google Workspace integration
 
 ### [Google AI Studio](https://aistudio.google.com/)
 🆓 Free | 🛠️ Development
 
-Tools for experimenting with Google AI models.
+Official sandbox for prototyping with Gemini models.
 
-**Best for:** Prototyping with Gemini API
+**Best for:** Prototyping with the Gemini API
+
+### [Groq](https://groq.com/)
+🆓 Free Tier | 🛠️ Development
+
+Ultra-fast LLM inference platform with official API access.
+
+**Best for:** Low-latency AI application deployment
 
 ### [Hugging Face](https://huggingface.co/)
 🆓 Free | 🌟 Open Source
 
-Models, datasets and developer tools.
+Official hub for open ML models, datasets, and spaces.
 
-**Best for:** ML model hub and collaboration
+**Best for:** Open model hosting and ML collaboration
 
 ### [Microsoft Copilot](https://copilot.microsoft.com/)
 🆓 Free Tier | 💼 Enterprise
 
-Microsoft's AI companion across products.
+Microsoft's official AI companion across Windows and M365.
 
 **Best for:** Microsoft ecosystem integration
 
 ### [Midjourney](https://www.midjourney.com/)
 💎 Paid | 🎨 Creative
 
-Generative image creation tool.
+Leading generative image creation service.
 
 **Best for:** High-quality AI art generation
 
 ### [Mistral](https://mistral.ai/)
 🌟 Open Source | 🔬 Research
 
-Open source LLMs from Europe.
+European AI lab building open and commercial LLMs.
 
-**Best for:** European open-source AI models
+**Best for:** European open-weight AI models
 
 ### [OpenAI](https://openai.com/)
 🔬 Research | 💼 Enterprise
 
-Creators of ChatGPT and powerful AI APIs.
+Creators of GPT, DALL·E, and the ChatGPT platform.
 
-**Best for:** GPT models and DALL-E
+**Best for:** GPT models, APIs, and frontier AI research
 
 ### [OpenAI Playground](https://platform.openai.com/playground)
 🛠️ Development | 🆓 Free Trial
 
-Test prompts against OpenAI models.
+Official interface for testing OpenAI model prompts.
 
-**Best for:** Experimenting with GPT parameters
+**Best for:** Experimenting with GPT parameters and tools
 
 ### [Perplexity](https://www.perplexity.ai/)
 🆓 Free Tier | 🔍 Search
 
-Answer engine using multiple LLMs.
+AI answer engine with cited sources.
 
-**Best for:** AI-powered research and citations
+**Best for:** AI-powered research with citations
 
 ### [Poe](https://poe.com/)
-🆓 Free Tier | 🤖 Multi-AI
+🆓 Free Tier | 🤖 AI-Powered
 
-Chat with a variety of bots.
+Quora's official multi-model AI chat platform.
 
-**Best for:** Access to multiple AI models
+**Best for:** Accessing multiple AI models in one place
 
 ### [Stable Diffusion](https://stability.ai/)
 🌟 Open Source | 🎨 Creative
 
-Popular open source image model.
+Stability AI — home of the Stable Diffusion image model.
 
-**Best for:** Open-source image generation
+**Best for:** Open-source image generation research
 
-### [You.com](https://you.com/)
-🆓 Free | 🔍 Search
+---
 
-Search engine with AI chat.
-
-**Best for:** AI-enhanced web search
-
-## Research & Academia
+## 📚 Research & Academia
 
 ### [ArXiv](https://arxiv.org/)
 🆓 Free | 📚 Academic
 
-Open repository of scientific papers.
+Cornell-operated open repository of scientific preprints.
 
-**Best for:** Preprint research papers
+**Best for:** Latest physics, CS, and math preprints
 
 ### [Consensus](https://consensus.app/)
 🆓 Free Tier | 🔍 Search
 
-LLM-powered search of research.
+AI-powered search across peer-reviewed research.
 
-**Best for:** Finding scientific consensus
-
-### [IEEE Xplore](https://ieeexplore.ieee.org/)
-💎 Subscription | 📚 Academic
-
-Digital library for engineering papers.
-
-**Best for:** Engineering and tech research
-
-### [Papers with Code](https://paperswithcode.com/)
-🆓 Free | 🌟 Open Source
-
-Papers paired with implementation code.
-
-**Best for:** ML research with implementations
-
-### [Semantic Scholar](https://www.semanticscholar.org/)
-🆓 Free | 🔍 Search
-
-AI-powered scientific search engine.
-
-**Best for:** AI-driven paper discovery
-
-### [Zotero](https://www.zotero.org/)
-🆓 Free | 🌟 Open Source
-
-Reference manager for academics.
-
-**Best for:** Citation management
+**Best for:** Finding scientific consensus on a topic
 
 ### [Google Scholar](https://scholar.google.com/)
 🆓 Free | 🔍 Search
 
-Search engine for scholarly literature.
+Google's scholarly literature search engine.
 
-**Best for:** Academic paper search
+**Best for:** Broad academic paper discovery
+
+### [Hugging Face Papers](https://huggingface.co/papers)
+🆓 Free | 🌟 Open Source
+
+Trending ML research papers (formerly Papers with Code).
+
+**Best for:** ML papers with community discussion and code links
+
+### [IEEE Xplore](https://ieeexplore.ieee.org/)
+💎 Subscription | 📚 Academic
+
+IEEE's digital library for engineering and tech papers.
+
+**Best for:** Engineering and electrical/computer science research
 
 ### [Research Rabbit](https://www.researchrabbit.ai/)
 🆓 Free | 🤖 AI-Powered
 
-Tool for discovering related papers.
+Visual tool for discovering related academic papers.
 
-**Best for:** Paper recommendation network
+**Best for:** Building paper recommendation networks
 
-## Development & Collaboration
+### [Semantic Scholar](https://www.semanticscholar.org/)
+🆓 Free | 🔍 Search
 
-### [GitHub](https://github.com/)
-🆓 Free | 💼 Enterprise
+AI-powered scientific search by the Allen Institute.
 
-Host and collaborate on code.
+**Best for:** AI-driven paper discovery and citation graphs
 
-**Best for:** Version control and collaboration
-
-### [GitLab](https://gitlab.com/)
+### [Zotero](https://www.zotero.org/)
 🆓 Free | 🌟 Open Source
 
-Complete DevOps platform.
+Open-source reference manager for researchers.
 
-**Best for:** Full DevOps lifecycle
+**Best for:** Citation management and bibliography building
 
-### [Stack Overflow](https://stackoverflow.com/)
-🆓 Free | 👥 Community
+---
 
-Q&A site for programming.
-
-**Best for:** Programming questions and answers
-
-### [Replit](https://replit.com/)
-🆓 Free Tier | ☁️ Cloud
-
-Collaborative coding environment.
-
-**Best for:** Quick prototyping and learning
-
-### [Google Colab](https://colab.research.google.com/)
-🆓 Free | ☁️ Cloud
-
-Jupyter notebooks in the cloud.
-
-**Best for:** ML/data science notebooks
-
-### [Kaggle](https://www.kaggle.com/)
-🆓 Free | 🏆 Competitions
-
-Data science competitions and datasets.
-
-**Best for:** Data science practice
+## 💻 Development & Collaboration
 
 ### [CodeSandbox](https://codesandbox.io/)
 🆓 Free Tier | ☁️ Cloud
 
-Online editor for web applications.
+Cloud IDE for rapid web application prototyping.
 
-**Best for:** Frontend development
+**Best for:** Frontend development and live sharing
 
-### [Hacker News](https://news.ycombinator.com/)
-🆓 Free | 👥 Community
+### [Cursor](https://cursor.com/)
+🆓 Free Tier | 🤖 AI-Powered
 
-Tech and startup news.
+AI-native code editor built on VS Code.
 
-**Best for:** Tech news and discussion
+**Best for:** AI-assisted software development
 
 ### [Dev.to](https://dev.to/)
 🆓 Free | 👥 Community
 
-Community for software developers.
+Community platform for developer articles and discussion.
 
-**Best for:** Developer articles and community
+**Best for:** Developer articles and community engagement
 
-### [Medium](https://medium.com/)
-🆓 Free Tier | 💎 Premium
+### [GitHub](https://github.com/)
+🆓 Free | 💼 Enterprise
 
-Blogging platform for ideas.
+Microsoft-owned platform for code hosting and collaboration.
 
-**Best for:** Technical writing and blogs
+**Best for:** Version control, CI/CD, and open-source collaboration
 
-## Cloud & DevOps
+### [GitLab](https://gitlab.com/)
+🆓 Free | 🌟 Open Source
+
+Complete DevOps platform with built-in CI/CD.
+
+**Best for:** Full DevOps lifecycle in one platform
+
+### [Google Colab](https://colab.research.google.com/)
+🆓 Free | ☁️ Cloud
+
+Google's cloud-hosted Jupyter notebook environment.
+
+**Best for:** ML and data science notebooks with free GPU
+
+### [Hacker News](https://news.ycombinator.com/)
+🆓 Free | 👥 Community
+
+Y Combinator's tech and startup news aggregator.
+
+**Best for:** Tech industry news and startup discussion
+
+### [Kaggle](https://www.kaggle.com/)
+🆓 Free | 🏆 Competitions
+
+Google-owned data science competition and dataset platform.
+
+**Best for:** Data science practice and public datasets
+
+### [MDN Web Docs](https://developer.mozilla.org/)
+🆓 Free | 🌟 Open Source
+
+Mozilla Foundation's authoritative web development documentation.
+
+**Best for:** HTML, CSS, JavaScript, and web API reference
+
+### [Replit](https://replit.com/)
+🆓 Free Tier | ☁️ Cloud
+
+Browser-based collaborative coding environment.
+
+**Best for:** Quick prototyping and teaching
+
+### [Stack Overflow](https://stackoverflow.com/)
+🆓 Free | 👥 Community
+
+The definitive Q&A site for programming questions.
+
+**Best for:** Debugging help and programming knowledge
+
+---
+
+## ☁️ Cloud & DevOps
+
+### [Ansible](https://www.redhat.com/en/technologies/management/ansible)
+🆓 Free | 🌟 Open Source
+
+Red Hat's official automation and configuration management tool.
+
+**Best for:** Infrastructure automation and config management
 
 ### [AWS](https://aws.amazon.com/)
 🆓 Free Tier | 💼 Enterprise
 
-Amazon's cloud computing platform.
+Amazon Web Services — industry-leading cloud platform.
 
-**Best for:** Comprehensive cloud services
-
-### [Google Cloud](https://cloud.google.com/)
-🆓 Free Tier | 💼 Enterprise
-
-Google's suite of cloud services.
-
-**Best for:** ML and data analytics
-
-### [Microsoft Azure](https://azure.microsoft.com/)
-🆓 Free Tier | 💼 Enterprise
-
-Microsoft's cloud computing services.
-
-**Best for:** Enterprise and hybrid cloud
-
-### [Docker](https://www.docker.com/)
-🆓 Free | 🌟 Open Source
-
-Containerization technology.
-
-**Best for:** Application containerization
-
-### [Kubernetes](https://kubernetes.io/)
-🆓 Free | 🌟 Open Source
-
-Orchestrate containers at scale.
-
-**Best for:** Container orchestration
-
-### [Vercel](https://vercel.com/)
-🆓 Free Tier | ☁️ Cloud
-
-Frontend cloud for web applications.
-
-**Best for:** Next.js and frontend hosting
-
-### [Netlify](https://www.netlify.com/)
-🆓 Free Tier | ☁️ Cloud
-
-Deploy and host static sites.
-
-**Best for:** JAMstack applications
-
-### [Cloudflare](https://www.cloudflare.com/)
-🆓 Free Tier | 🔒 Security
-
-Security and performance services.
-
-**Best for:** CDN and DDoS protection
-
-### [DigitalOcean](https://www.digitalocean.com/)
-💎 Paid | ☁️ Cloud
-
-Simple cloud infrastructure.
-
-**Best for:** Developer-friendly VPS
-
-### [Terraform](https://www.terraform.io/)
-🆓 Free | 🌟 Open Source
-
-Infrastructure as code.
-
-**Best for:** IaC and provisioning
-
-### [Ansible](https://www.ansible.com/)
-🆓 Free | 🌟 Open Source
-
-Automation and configuration management.
-
-**Best for:** Configuration management
+**Best for:** Comprehensive cloud infrastructure and services
 
 ### [CircleCI](https://circleci.com/)
 🆓 Free Tier | 🛠️ Development
 
-Continuous integration and delivery.
+Continuous integration and delivery platform.
 
-**Best for:** CI/CD pipelines
+**Best for:** CI/CD pipeline automation
 
-## Productivity & Collaboration
+### [Cloudflare](https://www.cloudflare.com/)
+🆓 Free Tier | 🔒 Security
 
-### [Notion](https://www.notion.so/)
-🆓 Free Tier | 💎 Premium
+CDN, DNS, and security services for web applications.
 
-All-in-one workspace.
+**Best for:** CDN, DDoS protection, and edge computing
 
-**Best for:** Knowledge management
+### [DigitalOcean](https://www.digitalocean.com/)
+💎 Paid | ☁️ Cloud
 
-### [Slack](https://slack.com/)
+Developer-friendly cloud VPS and managed services.
+
+**Best for:** Simple, affordable cloud infrastructure
+
+### [Docker](https://www.docker.com/)
+🆓 Free | 🌟 Open Source
+
+Industry-standard containerization platform.
+
+**Best for:** Application containerization and deployment
+
+### [Google Cloud](https://cloud.google.com/)
 🆓 Free Tier | 💼 Enterprise
 
-Messaging for teams.
+Google's suite of cloud computing services.
 
-**Best for:** Team communication
+**Best for:** ML workloads and data analytics at scale
 
-### [Microsoft Teams](https://teams.microsoft.com/)
+### [Kubernetes](https://kubernetes.io/)
+🆓 Free | 🌟 Open Source
+
+CNCF-governed container orchestration platform.
+
+**Best for:** Production container orchestration
+
+### [Microsoft Azure](https://azure.microsoft.com/)
 🆓 Free Tier | 💼 Enterprise
 
-Chat and collaboration for work.
+Microsoft's enterprise cloud computing platform.
 
-**Best for:** Microsoft 365 integration
+**Best for:** Enterprise and hybrid cloud deployments
 
-### [Zoom](https://zoom.us/)
-🆓 Free Tier | 💎 Premium
+### [Netlify](https://www.netlify.com/)
+🆓 Free Tier | ☁️ Cloud
 
-Video conferencing platform.
+Platform for deploying and hosting JAMstack sites.
 
-**Best for:** Video meetings
+**Best for:** Static sites and serverless functions
 
-### [Trello](https://trello.com/)
-🆓 Free Tier | 💎 Premium
+### [Terraform](https://developer.hashicorp.com/terraform)
+🆓 Free | 🌟 Open Source
 
-Kanban boards for projects.
+HashiCorp's infrastructure-as-code tool.
 
-**Best for:** Visual project management
+**Best for:** Declarative cloud resource provisioning
 
-### [Asana](https://asana.com/)
-🆓 Free Tier | 💎 Premium
+### [Vercel](https://vercel.com/)
+🆓 Free Tier | ☁️ Cloud
 
-Project management for teams.
+Frontend cloud platform for modern web applications.
 
-**Best for:** Task and project tracking
+**Best for:** Next.js and React deployment
 
-### [Figma](https://www.figma.com/)
-🆓 Free Tier | 💎 Premium
+---
 
-Collaborative interface design.
-
-**Best for:** UI/UX design collaboration
-
-### [Calendly](https://calendly.com/)
-🆓 Free Tier | 💎 Premium
-
-Schedule meetings without email.
-
-**Best for:** Meeting scheduling
+## 🗂️ Productivity & Collaboration
 
 ### [Airtable](https://airtable.com/)
 🆓 Free Tier | 💎 Premium
 
-Flexible database and spreadsheet.
+Flexible cloud database and spreadsheet hybrid.
 
-**Best for:** Structured data management
+**Best for:** Structured data management and workflows
+
+### [Asana](https://asana.com/)
+🆓 Free Tier | 💎 Premium
+
+Team project and task management platform.
+
+**Best for:** Task tracking and team coordination
+
+### [Calendly](https://calendly.com/)
+🆓 Free Tier | 💎 Premium
+
+Automated meeting scheduling tool.
+
+**Best for:** Eliminating back-and-forth scheduling emails
 
 ### [Excalidraw](https://excalidraw.com/)
 🆓 Free | 🌟 Open Source
 
-Virtual whiteboard for sketching.
+Virtual whiteboard for hand-drawn-style diagrams.
 
-**Best for:** Quick diagrams and sketches
+**Best for:** Architecture sketches and quick diagrams
 
-## Cybersecurity
+### [Figma](https://www.figma.com/)
+🆓 Free Tier | 💎 Premium
+
+Collaborative interface design tool (Adobe-owned).
+
+**Best for:** UI/UX design and design systems
+
+### [Linear](https://linear.app/)
+🆓 Free Tier | 💎 Premium
+
+Modern issue tracking for software teams.
+
+**Best for:** Fast, focused product and engineering workflows
+
+### [Microsoft Teams](https://teams.microsoft.com/)
+🆓 Free Tier | 💼 Enterprise
+
+Microsoft's enterprise chat and collaboration hub.
+
+**Best for:** Microsoft 365 team communication
+
+### [Notion](https://www.notion.so/)
+🆓 Free Tier | 💎 Premium
+
+All-in-one workspace for notes, docs, and databases.
+
+**Best for:** Knowledge management and team wikis
+
+### [Slack](https://slack.com/)
+🆓 Free Tier | 💼 Enterprise
+
+Team messaging platform by Salesforce.
+
+**Best for:** Real-time team communication
+
+### [Trello](https://trello.com/)
+🆓 Free Tier | 💎 Premium
+
+Visual Kanban boards for project management.
+
+**Best for:** Simple visual task boards
+
+### [Zoom](https://zoom.us/)
+🆓 Free Tier | 💎 Premium
+
+Industry-standard video conferencing platform.
+
+**Best for:** Remote meetings and webinars
+
+---
+
+## 🔒 Cybersecurity
+
+### [CISA](https://www.cisa.gov/)
+🆓 Free | 🏛️ Government
+
+U.S. Cybersecurity and Infrastructure Security Agency.
+
+**Best for:** Official alerts, advisories, and security guidance
+
+### [Exploit DB](https://www.exploit-db.com/)
+🆓 Free | 📚 Academic
+
+Offensive Security's archive of public exploits and PoCs.
+
+**Best for:** Authorized exploit research and CVE correlation
 
 ### [Hack The Box](https://www.hackthebox.com/)
 🆓 Free Tier | 🎓 Learning
 
-Hands-on security labs.
+Hands-on penetration testing labs and CTF challenges.
 
-**Best for:** Practical pentesting practice
-
-### [TryHackMe](https://tryhackme.com/)
-🆓 Free Tier | 🎓 Learning
-
-Learn hacking in virtual rooms.
-
-**Best for:** Guided security learning paths
-
-### [OWASP](https://owasp.org/)
-🆓 Free | 👥 Community
-
-Open Web Application Security Project.
-
-**Best for:** Web security best practices
-
-### [VirusTotal](https://www.virustotal.com/)
-🆓 Free | 🔒 Security
-
-Analyze files for malware.
-
-**Best for:** Malware scanning
-
-### [Shodan](https://www.shodan.io/)
-🆓 Free Tier | 🔍 Search
-
-Search engine for connected devices.
-
-**Best for:** IoT device discovery
-
-### [Kali Linux](https://www.kali.org/)
-🆓 Free | 🌟 Open Source
-
-Penetration testing distribution.
-
-**Best for:** Security testing toolkit
-
-### [Metasploit](https://www.metasploit.com/)
-🆓 Free | 🌟 Open Source
-
-Penetration testing framework.
-
-**Best for:** Exploit development and testing
-
-### [Wireshark](https://www.wireshark.org/)
-🆓 Free | 🌟 Open Source
-
-Network protocol analyzer.
-
-**Best for:** Packet analysis
-
-### [NIST](https://www.nist.gov/)
-🆓 Free | 🏛️ Government
-
-U.S. standards and cybersecurity.
-
-**Best for:** Security frameworks and standards
+**Best for:** Practical offensive security practice
 
 ### [HackerOne](https://www.hackerone.com/)
 🆓 Free | 💰 Bug Bounties
 
-Bug bounty and vulnerability disclosure.
+Leading bug bounty and coordinated disclosure platform.
 
-**Best for:** Bug bounty programs
+**Best for:** Running or participating in bug bounty programs
 
-### [Exploit DB](https://www.exploit-db.com/)
-🆓 Free | 📚 Database
+### [Kali Linux](https://www.kali.org/)
+🆓 Free | 🌟 Open Source
 
-Archive of public exploits.
+Official Debian-based penetration testing distribution.
 
-**Best for:** Exploit research
+**Best for:** Pre-configured security testing toolkit
+
+### [Metasploit](https://www.metasploit.com/)
+🆓 Free | 🌟 Open Source
+
+Rapid7's penetration testing framework.
+
+**Best for:** Exploit development and authorized testing
+
+### [NIST](https://www.nist.gov/)
+🆓 Free | 🏛️ Government
+
+U.S. National Institute of Standards and Technology.
+
+**Best for:** NIST CSF, SP 800-series, and security frameworks
 
 ### [Nmap](https://nmap.org/)
 🆓 Free | 🌟 Open Source
 
-Network exploration tool.
+Industry-standard network discovery and security scanner.
 
-**Best for:** Network scanning
+**Best for:** Network reconnaissance and port scanning
 
-## Education & Learning
+### [OWASP](https://owasp.org/)
+🆓 Free | 👥 Community
 
-### [Khan Academy](https://www.khanacademy.org/)
-🆓 Free | 🎓 Learning
+Open Web Application Security Project foundation.
 
-Free educational lessons.
+**Best for:** Web application security standards (Top 10, ASVS)
 
-**Best for:** K-12 and basic college courses
-
-### [Coursera](https://www.coursera.org/)
-🆓 Free Tier | 🎓 Certificates
-
-Online courses from universities.
-
-**Best for:** University-level courses
-
-### [edX](https://www.edx.org/)
-🆓 Free Tier | 🎓 Certificates
-
-University-level courses online.
-
-**Best for:** MIT/Harvard courses
-
-### [Udemy](https://www.udemy.com/)
+### [SANS](https://www.sans.org/)
 💎 Paid | 🎓 Learning
 
-Marketplace for online courses.
+Premier cybersecurity training and GIAC certification body.
 
-**Best for:** Practical skill development
+**Best for:** Professional security training and certifications
 
-### [Pluralsight](https://www.pluralsight.com/)
-💎 Subscription | 🎓 Learning
+### [Shodan](https://www.shodan.io/)
+🆓 Free Tier | 🔍 Search
 
-Tech skill development.
+Search engine for internet-connected devices and services.
 
-**Best for:** Technology training
+**Best for:** Attack surface discovery and IoT research
 
-### [DataCamp](https://www.datacamp.com/)
+### [TryHackMe](https://tryhackme.com/)
 🆓 Free Tier | 🎓 Learning
 
-Data science courses.
+Guided cybersecurity learning paths in virtual rooms.
 
-**Best for:** Data science and analytics
+**Best for:** Beginner-friendly security learning
+
+### [VirusTotal](https://www.virustotal.com/)
+🆓 Free | 🔒 Security
+
+Google-owned multi-engine malware analysis service.
+
+**Best for:** File and URL reputation checking
+
+### [Wireshark](https://www.wireshark.org/)
+🆓 Free | 🌟 Open Source
+
+World's most-used network protocol analyzer.
+
+**Best for:** Packet capture and network forensics
+
+---
+
+## 🎓 Education & Learning
 
 ### [Brilliant](https://brilliant.org/)
 🆓 Free Tier | 💎 Premium
 
-Interactive math and science lessons.
+Interactive STEM learning through problem-solving.
 
-**Best for:** STEM learning through problem-solving
-
-### [Cybrary](https://www.cybrary.it/)
-🆓 Free Tier | 🎓 Learning
-
-Cybersecurity training platform.
-
-**Best for:** Cybersecurity certifications
+**Best for:** Math, logic, and computer science fundamentals
 
 ### [Codecademy](https://www.codecademy.com/)
 🆓 Free Tier | 💎 Premium
 
-Interactive coding lessons.
+Interactive platform for learning programming languages.
 
-**Best for:** Learning to code
+**Best for:** Beginner-friendly coding lessons
+
+### [Coursera](https://www.coursera.org/)
+🆓 Free Tier | 🎓 Learning
+
+University-partnered online course platform.
+
+**Best for:** Accredited university-level courses
+
+### [Cybrary](https://www.cybrary.it/)
+🆓 Free Tier | 🎓 Learning
+
+Cybersecurity and IT training platform (2M+ users).
+
+**Best for:** Security certification preparation
+
+### [DataCamp](https://www.datacamp.com/)
+🆓 Free Tier | 🎓 Learning
+
+Interactive data science and analytics courses.
+
+**Best for:** Python, R, SQL, and data skills
+
+### [edX](https://www.edx.org/)
+🆓 Free Tier | 🎓 Learning
+
+Nonprofit platform with MIT, Harvard, and partner courses.
+
+**Best for:** University courses from top institutions
 
 ### [freeCodeCamp](https://www.freecodecamp.org/)
 🆓 Free | 🌟 Open Source
 
-Free coding bootcamp curriculum.
+Free full-stack web development curriculum and certifications.
 
-**Best for:** Full-stack web development
+**Best for:** Self-paced full-stack web development
+
+### [Khan Academy](https://www.khanacademy.org/)
+🆓 Free | 🎓 Learning
+
+Nonprofit providing free educational content worldwide.
+
+**Best for:** K-12 math, science, and computing basics
+
+### [MIT OpenCourseWare](https://ocw.mit.edu/)
+🆓 Free | 📚 Academic
+
+MIT's official free course materials repository.
+
+**Best for:** University-level CS, math, and engineering courses
+
+### [Pluralsight](https://www.pluralsight.com/)
+💎 Subscription | 🎓 Learning
+
+Technology skill development platform for professionals.
+
+**Best for:** Deep technology training paths
+
+### [Udemy](https://www.udemy.com/)
+💎 Paid | 🎓 Learning
+
+Marketplace for practical online courses on any topic.
+
+**Best for:** Affordable, project-based skill building
+
+---
 
 ## Contributing
 
-Have a suggestion for an authoritative website that should be included? Here's what we're looking for:
+Have a suggestion for an authoritative website? Every submission is vetted before inclusion.
 
-✅ **We want sites that are:**
-- Industry-leading or authoritative in their field
-- Actively maintained and reliable
-- Genuinely useful to developers, researchers, or tech professionals
-- Well-documented and user-friendly
+### ✅ We include sites that are:
 
-❌ **We generally avoid:**
-- Personal blogs or small projects (unless exceptionally influential)
-- Sites with frequent downtime or poor maintenance
-- Duplicate functionality without clear differentiation
-- Sites requiring payment without a free tier or trial
+- **Official** — owned and operated by the organization named (no third-party mirrors or aggregators posing as originals)
+- **Authoritative** — industry-leading or widely recognized in their field
+- **Maintained** — actively updated with reliable uptime
+- **Useful** — genuinely valuable to developers, researchers, or security professionals
+- **Safe** — no malware, phishing, credential harvesting, or deceptive practices
 
-To suggest a site, please open an issue with:
-1. Site name and URL
+### ❌ We exclude:
+
+- Typosquat or lookalike domains
+- Affiliate/content-farm sites with no original value
+- Personal blogs or unverified "awesome" list clones
+- Sites with frequent downtime or abandoned maintenance
+- Duplicate entries without clear differentiation
+- User-generated platforms where quality cannot be guaranteed (e.g., Medium)
+
+### How to suggest a site
+
+Open an issue with:
+
+1. Site name and **official URL**
 2. Category it belongs to
-3. Why it's authoritative and useful
+3. Why it's authoritative (who operates it, how it's recognized)
 4. Suggested badges and "best for" description
+
+---
 
 ## Changelog
 
-- <small>2025-11-05: Major curation update - trimmed to 77 most authoritative sites, added badges, icons, and 'best for' descriptions. Improved organization and added contributing guidelines.</small>
+- <small>2026-09-03: Full refresh — verified all 83 links for uptime and official domain legitimacy; updated stale URLs (ChatGPT → chatgpt.com, Terraform → developer.hashicorp.com, Ansible → Red Hat, Papers with Code → Hugging Face Papers); removed Medium and You.com (low-quality/user-generated slop); added DeepSeek, Groq, Cursor, MDN Web Docs, Linear, CISA, SANS, and MIT OpenCourseWare; refreshed README visuals with shields, stats table, and vetting criteria.</small>
+- <small>2025-11-05: Major curation update — trimmed to 77 most authoritative sites, added badges, icons, and 'best for' descriptions. Improved organization and added contributing guidelines.</small>
 - <small>2025-11-05: Verified all 115 links are valid and working. Alphabetically sorted all entries within categories for easier navigation.</small>
 - <small>2025-08-21: Reverted integration of AI tools and services list.</small>
 - <small>2025-07-02: Added 5 new sites across multiple categories.</small>
